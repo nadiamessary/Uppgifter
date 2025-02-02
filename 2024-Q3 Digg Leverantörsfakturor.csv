@@ -1,0 +1,799 @@
+﻿datum;faktura_nr;faktura_typ;leverantor_id;leverantor;belopp;valuta;kopare_id;kopare
+2024-07-01;501;NORMAL;559233-2703;Wise Management AB;36750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;3528;NORMAL;556688-7419;Kirei AB;201960;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;3529;NORMAL;556688-7419;Kirei AB;78690;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;17372;NORMAL;556815-1889;Nordic Peak AB;30000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;16397;NORMAL;556590-6897;Pro4u AB;112032;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1406/2406;NORMAL;202100-5448;Skatteverket;4701436;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;22473;NORMAL;556956-0351;Talentwise AB;4676;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;2807;NORMAL;559071-0538;Kvadrat Sundsvall AB;118680;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;003561;NORMAL;556499-9869;Café Charm AB;792,86;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;15235;NORMAL;556700-7181;Viati Konsult AB;210000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;411038;NORMAL;556596-3336;Fastighets Competens i Norrland AB;2538,54;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;2805;NORMAL;559071-0538;Kvadrat Sundsvall AB;154254;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;419;NORMAL;559054-3152;Edge Associates AB;146648;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1518;NORMAL;559244-3484;Visionite Sundsvall AB;111600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;3824;NORMAL;556953-3978;Masarin Consulting Group AB;113208;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1505;NORMAL;559244-3484;Visionite Sundsvall AB;77264;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1503;NORMAL;559244-3484;Visionite Sundsvall AB;96050;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1498;NORMAL;559244-3484;Visionite Sundsvall AB;92190;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;8320;NORMAL;556589-4614;Trippus Event Solutions AB;95;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;429;NORMAL;559054-3152;Edge Associates AB;129168;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;91117;NORMAL;556648-5677;Swedish Connection AB;127746;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;6386;NORMAL;556782-2571;Baringo Reklam & Kommunikation AB;166700;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;6387;NORMAL;556782-2571;Baringo Reklam & Kommunikation AB;53310;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;1292;NORMAL;556414-2197;Ciceronen Telekom AB/Fortnox Finans AB;19200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;569012;NORMAL;556563-1404;Arkaden Konsult AB;300;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-01;54413504;NORMAL;202100-5521;Försäkringskassan;103894;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;PJ6000056839;NORMAL;556866-4444;ÅF Digital Solutions AB;72500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;2024009126;NORMAL;556222-1068;A Society AB;100000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1319079;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;10184;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1527;NORMAL;559244-3484;Visionite Sundsvall AB;88400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1522;NORMAL;559244-3484;Visionite Sundsvall AB;86742;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;119989;NORMAL;556726-4758;Chas visual management AB;112651;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;119988;NORMAL;556726-4758;Chas visual management AB;83378;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;119987;NORMAL;556726-4758;Chas visual management AB;115192;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;742703536;NORMAL;556786-3542;Governo AB;132960;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;742703530;NORMAL;556786-3542;Governo AB;2450;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1000000571;NORMAL;556551-4147;Frontwalker Stockholm AB;113498;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1532;NORMAL;559244-3484;Visionite Sundsvall AB;46995;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;978;NORMAL;559387-8969;Ecrucial Stockholm AB;151800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320038;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;3745;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320054;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;14432;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320037;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;1516,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320035;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;3963;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320036;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;1095;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320095;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;1651,25;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1320094;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;6188;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;42537251;NORMAL;556587-8708;Ework Group AB;142120;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1543;NORMAL;559244-3484;Visionite Sundsvall AB;104400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1430;NORMAL;556472-9282;Bouvet AB;123140;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1431;NORMAL;556472-9282;Bouvet AB;93840;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;1539;NORMAL;559244-3484;Visionite Sundsvall AB;129600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-02;300865968;NORMAL;556767-9849;SWECO Sverige AB;145950;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;13704;NORMAL;556654-0422;Digitalist Open Tech AB;5000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;13720;NORMAL;556654-0422;Digitalist Open Tech AB;5000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;13741;NORMAL;556654-0422;Digitalist Open Tech AB;24357;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;3886;NORMAL;556766-7968;Frontit Sundsvall AB;135216;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;15121338;NORMAL;202100-5448;Skatteverket;5421,4;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;1000;NORMAL;559387-8969;Ecrucial Stockholm AB;15562,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;320025763;NORMAL;556599-4307;Consid AB;8020;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;110483786;NORMAL;556242-1718;Randstad AB;193200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-03;8054;NORMAL;556448-4771;SAG SIPU International AB;10000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-04;124320473;NORMAL;556091-3591;Lyreco Sverige AB;931;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-04;40105285;NORMAL;202100-6552;E-hälsomyndigheten;9814;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-04;1022;NORMAL;559387-8969;Ecrucial Stockholm AB;120750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-04;111303938;NORMAL;556506-5819;HiQ Stockholm AB;124740;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;317093242;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;9436;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;22519;NORMAL;556641-0576;Redpill Linpro AB;165749;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;22523;NORMAL;556641-0576;Redpill Linpro AB;52800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20174;NORMAL;559161-7864;IDsec Solutions AB;238138;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20175;NORMAL;559161-7864;IDsec Solutions AB;230680;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20176;NORMAL;559161-7864;IDsec Solutions AB;112710;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20177;NORMAL;559161-7864;IDsec Solutions AB;120000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20178;NORMAL;559161-7864;IDsec Solutions AB;163750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-05;20179;NORMAL;559161-7864;IDsec Solutions AB;180000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-06;4015010042558;NORMAL;556855-1104;Experis AB;226250;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-06;4015010042409;NORMAL;556855-1104;Experis AB;125280;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-06;4015010042319;CREDIT;556855-1104;Experis AB;-20880;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-06;4015010042388;NORMAL;556855-1104;Experis AB;122667;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-06;4000110074813;NORMAL;556348-1588;Manpower AB;38080;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;24141;NORMAL;556598-6436;4C Strategies AB;1495;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;75598;NORMAL;559002-8899;Emagine Consulting AB;128160;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;75599;NORMAL;559002-8899;Emagine Consulting AB;114800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;21130;NORMAL;556850-0663;Screen9 AB;12975,38;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;300014818;NORMAL;516401-9811;Danske Bank AS Danmark Sverige Filial;716,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;1237655;NORMAL;556483-4371;Avoki Solutions AB;2750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-08;124343065;NORMAL;556091-3591;Lyreco Sverige AB;18000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;5022326;NORMAL;202100-5448;Skatteverket;6231226,93;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;394638;NORMAL;556218-6790;Combitech AB;127816;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;394637;NORMAL;556218-6790;Combitech AB;256396,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;2841;NORMAL;559071-0538;Kvadrat Sundsvall AB;92775;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;3534;NORMAL;556688-7419;Kirei AB;7320;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-09;3485;NORMAL;556878-5934;Luxlucid AB;10800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-11;97410003;NORMAL;202100-5521;Försäkringskassan;1607,04;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-11;3109240;NORMAL;202100-5208;Vetenskapsrådet;556087;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-11;75900;NORMAL;556533-8133;Antirio AB;15000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-12;805723628022;NORMAL;556711-5695;PostNord Sverige AB;227,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-12;42541403;NORMAL;556587-8708;Ework Group AB;2378;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-16;110958333;NORMAL;556768-7248;Synsam Group Sweden AB;332;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-16;313011534;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;30264;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-16;31122437;NORMAL;202100-0829;Kammarkollegiet;11050;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-16;23704;NORMAL;556363-5043;Riviera Blommor i Sundsvall AB;400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-18;805729207425;NORMAL;556711-5695;PostNord Sverige AB;142,4;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-19;TS 2407 DIGG;NORMAL;802015-0721;Trygghetsstiftelsen;24838;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-22;317093497;NORMAL;202100-0928;SPV Statens tjänstepensionsverk (Autogiro);568207;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-23;317093790;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;2057159;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-26;3136017827;NORMAL;556180-2959;Coor Norrland Lokalvård AB;14825;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;902890524926;NORMAL;556711-5695;PostNord Sverige AB;197;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;902891014224;NORMAL;556711-5695;PostNord Sverige AB;2095;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;40105305;NORMAL;202100-6552;E-hälsomyndigheten;84234;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;40105304;NORMAL;202100-6552;E-hälsomyndigheten;23241;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;760025023;NORMAL;202100-6453;Statens servicecenter;96773;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-30;2844;NORMAL;559071-0538;Kvadrat Sundsvall AB;117058;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;749665626;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;5650,05;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;749392148;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;3748,75;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;111039951;NORMAL;556768-7248;Synsam Group Sweden AB;349;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;91145;NORMAL;556648-5677;Swedish Connection AB;35532;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;55715;NORMAL;556600-9089;Entergate AB;80400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-07-31;55710;NORMAL;556600-9089;Entergate AB;3600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085363;NORMAL;556574-6624;SEB Kort Bank AB;174,53;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085368;NORMAL;556574-6624;SEB Kort Bank AB;683,96;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085349;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085366;NORMAL;556574-6624;SEB Kort Bank AB;3243,47;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085369;NORMAL;556574-6624;SEB Kort Bank AB;147,17;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085346;CREDIT;556574-6624;SEB Kort Bank AB;-4247,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085345;NORMAL;556574-6624;SEB Kort Bank AB;158,49;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085371;NORMAL;556574-6624;SEB Kort Bank AB;502,44;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085370;NORMAL;556574-6624;SEB Kort Bank AB;986,51;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085352;NORMAL;556574-6624;SEB Kort Bank AB;109;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085364;NORMAL;556574-6624;SEB Kort Bank AB;799,06;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085357;NORMAL;556574-6624;SEB Kort Bank AB;109;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085354;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085351;NORMAL;556574-6624;SEB Kort Bank AB;363,64;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085347;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085365;NORMAL;556574-6624;SEB Kort Bank AB;164,15;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085359;NORMAL;556574-6624;SEB Kort Bank AB;1940;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085356;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085362;NORMAL;556574-6624;SEB Kort Bank AB;7310,25;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085348;NORMAL;556574-6624;SEB Kort Bank AB;3620;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085360;NORMAL;556574-6624;SEB Kort Bank AB;1645,64;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085372;NORMAL;556574-6624;SEB Kort Bank AB;1434,82;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085367;NORMAL;556574-6624;SEB Kort Bank AB;8674,11;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085361;NORMAL;556574-6624;SEB Kort Bank AB;986,42;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085353;NORMAL;556574-6624;SEB Kort Bank AB;2655,64;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085355;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085350;NORMAL;556574-6624;SEB Kort Bank AB;7203,39;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1085358;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;3863;NORMAL;556953-3978;Masarin Consulting Group AB;33072;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;75849;NORMAL;559002-8899;Emagine Consulting AB;41000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;120111;NORMAL;556726-4758;Chas visual management AB;142296;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;75848;NORMAL;559002-8899;Emagine Consulting AB;42720;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;8647;NORMAL;556589-4614;Trippus Event Solutions AB;95;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;15309;NORMAL;556700-7181;Viati Konsult AB;84000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1030;NORMAL;559387-8969;Ecrucial Stockholm AB;45425;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;578599;NORMAL;556563-1404;Arkaden Konsult AB;300;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1571;NORMAL;559244-3484;Visionite Sundsvall AB;91312;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1564;NORMAL;559244-3484;Visionite Sundsvall AB;13600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1552;NORMAL;559244-3484;Visionite Sundsvall AB;31000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1556;NORMAL;559244-3484;Visionite Sundsvall AB;37920;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1549;NORMAL;559244-3484;Visionite Sundsvall AB;42657;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;1548;NORMAL;559244-3484;Visionite Sundsvall AB;33364;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-01;442;NORMAL;559054-3152;Edge Associates AB;119550;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-02;975448994;NORMAL;556633-9304;Loopia AB;108;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-02;1572;NORMAL;559244-3484;Visionite Sundsvall AB;88400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-02;103224011763;NORMAL;556343-7218;Thales DIS Sweden AB;525;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-02;2855;NORMAL;559071-0538;Kvadrat Sundsvall AB;91538;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-02;42545571;NORMAL;556587-8708;Ework Group AB;100320;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-04;13793;NORMAL;556654-0422;Digitalist Open Tech AB;5000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-04;13798;NORMAL;556654-0422;Digitalist Open Tech AB;196450;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;1499;NORMAL;556472-9282;Bouvet AB;16560;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;1406/2407;NORMAL;202100-5448;Skatteverket;5223175;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;742703556;NORMAL;556786-3542;Governo AB;55400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;15122390;NORMAL;202100-5448;Skatteverket;3622,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;110486917;NORMAL;556242-1718;Randstad AB;68400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;16554;NORMAL;556590-6897;Pro4u AB;31120;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-05;760024998;NORMAL;202100-6453;Statens servicecenter;51638;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;20182;NORMAL;559161-7864;IDsec Solutions AB;25280;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;20181;NORMAL;559161-7864;IDsec Solutions AB;240160;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;20183;NORMAL;559161-7864;IDsec Solutions AB;75140;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;1498;NORMAL;556472-9282;Bouvet AB;43240;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;1201;NORMAL;559130-1329;Useit Consulting Sweden AB;2200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;317094020;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;9436;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-06;1000000594;NORMAL;556551-4147;Frontwalker Stockholm AB;20328;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-07;1325496;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;3094;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-07;22701;NORMAL;556641-0576;Redpill Linpro AB;165999;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-07;3909;NORMAL;556766-7968;Frontit Sundsvall AB;97656;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;4015010043513;NORMAL;556855-1104;Experis AB;48803;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;4015010043528;NORMAL;556855-1104;Experis AB;104400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;4015010043669;NORMAL;556855-1104;Experis AB;181250;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;4000110076728;NORMAL;556348-1588;Manpower AB;62560;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;40105407;NORMAL;202100-6552;E-hälsomyndigheten;9814;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;111304070;NORMAL;556506-5819;HiQ Stockholm AB;79200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;103224013064;NORMAL;556343-7218;Thales DIS Sweden AB;1575;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;103224013387;NORMAL;556343-7218;Thales DIS Sweden AB;525;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;800015042;NORMAL;516401-9811;Danske Bank AS Danmark Sverige Filial;1362,1;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;54413927;NORMAL;202100-5521;Försäkringskassan;1227599;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;54413926;NORMAL;202100-5521;Försäkringskassan;68750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;54413925;NORMAL;202100-5521;Försäkringskassan;4934;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-08;54413924;NORMAL;202100-5521;Försäkringskassan;1225835;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-09;2024011275;NORMAL;556222-1068;A Society AB;126720;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-09;2024011274;NORMAL;556222-1068;A Society AB;35200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-12;8770;NORMAL;556589-4614;Trippus Event Solutions AB;713;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-12;8011;NORMAL;556630-5982;NewsMachine AB;35880;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-12;1237953;NORMAL;556483-4371;Avoki Solutions AB;2750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-13;525;NORMAL;559233-2703;Wise Management AB;18900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-13;320028170;NORMAL;556599-4307;Consid AB;4920;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-13;23714;NORMAL;556363-5043;Riviera Blommor i Sundsvall AB;510;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-13;13752;NORMAL;556654-0422;Digitalist Open Tech AB;177900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-13;3109660;NORMAL;202100-5208;Vetenskapsrådet;556087;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-14;1379;NORMAL;556954-5667;Advokataktiebolaget Per Furberg;71250;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-15;2318981;NORMAL;556272-4491;Stockholmsmässan AB;41853;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-15;1546;CREDIT;556472-9282;Bouvet AB;-16560;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-15;22671;NORMAL;556155-0202;Sveriges Kommunikatörer AB;1350;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-16;31025973;NORMAL;556076-0737;Securitas Technology Sverige AB;268300;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-17;47814965;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;5161,71;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;5399;NORMAL;999000-1998;Kite Kommunikasjon og event AS;11393;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;5397;NORMAL;999000-1998;Kite Kommunikasjon og event AS;11393;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;5558;NORMAL;999000-1998;Kite Kommunikasjon og event AS;7375;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;TS 2408 DIGG;NORMAL;802015-0721;Trygghetsstiftelsen;24358;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;5559;NORMAL;999000-1998;Kite Kommunikasjon og event AS;7375;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;5477;NORMAL;999000-1998;Kite Kommunikasjon og event AS;7000;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;312407280;NORMAL;202100-2742;Sveriges Domstolar;230052;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;396109;NORMAL;556218-6790;Combitech AB;29496;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-19;20184;NORMAL;559161-7864;IDsec Solutions AB;100000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-20;44256;NORMAL;556675-7810;Talentech AB;4500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-20;23740;NORMAL;556363-5043;Riviera Blommor i Sundsvall AB;365,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-21;165008923;NORMAL;556643-6779;Printgroup Nordic AB/Norion Bank AB;10628,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-21;317094288;NORMAL;202100-0928;SPV Statens tjänstepensionsverk (Autogiro);537963;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-21;28158;NORMAL;556528-6423;Quickchannel AB;12933,34;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-22;14393313243;NORMAL;556430-0142;Telia Sverige AB;6600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-22;31008998;NORMAL;202100-3476;Arbetsgivarverket;2800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-22;59292;NORMAL;556132-8526;Intellecta AB;3600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-23;47824100;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;1189,05;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-23;317094592;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;2068371,75;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-23;8342000594;NORMAL;556299-1009;Scandic Hotels AB Sundsvall City;12048;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-24;3136019842;NORMAL;556180-2959;Coor Norrland Lokalvård AB;1488;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-24;3136019828;NORMAL;556180-2959;Coor Norrland Lokalvård AB;14825;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-25;4203;NORMAL;556995-4653;Norra Berget Restaurang AB;2611,65;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-26;SL 2407-2408 DIGG;NORMAL;202100-5521;Försäkringskassan;268824;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-26;208111427;NORMAL;556196-1599;SJ AB;1564,15;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-26;111165196;NORMAL;556768-7248;Synsam Group Sweden AB;349;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;47831870;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;7606,99;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;72972107;NORMAL;556076-0737;Securitas Technology Sverige AB;3109;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;72972108;NORMAL;556076-0737;Securitas Technology Sverige AB;5242;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;2978;NORMAL;559207-3851;Café 117 AB/Fortnox Finans AB;407,15;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;122511199;NORMAL;556108-6082;Securitas Sverige AB;8639;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;31122872;NORMAL;202100-0829;Kammarkollegiet;11000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;44477;NORMAL;556675-7810;Talentech AB;4500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-27;44476;NORMAL;556675-7810;Talentech AB;4500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;751111014;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;112;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;751059064;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;104309,86;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;750778086;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;1655;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;750778094;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;985;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;760025312;NORMAL;202100-6453;Statens servicecenter;53582;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;760025313;NORMAL;202100-6453;Statens servicecenter;82008;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-28;22886;NORMAL;556155-0202;Sveriges Kommunikatörer AB;1350;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;35218;NORMAL;556513-1355;Lindéns Skyltar AB;6630;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;902900080323;NORMAL;556711-5695;PostNord Sverige AB;2128,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;23764;NORMAL;556363-5043;Riviera Blommor i Sundsvall AB;650;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;313011582;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;847315;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;713332;NORMAL;556236-8729;Sundsvalls Expressbyrå AB;38839;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-29;44507;NORMAL;556675-7810;Talentech AB;4500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-30;31009057;NORMAL;202100-3476;Arbetsgivarverket;2800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-30;678795;NORMAL;556576-5954;JOBmeal AB;3980;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-30;55743;NORMAL;556600-9089;Entergate AB;3600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-30;47843840;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;1510,08;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-30;93118931;NORMAL;556226-6097;Norstedts Juridik AB;6983,96;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039512;NORMAL;556574-6624;SEB Kort Bank AB;1009,54;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039514;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039546;NORMAL;556574-6624;SEB Kort Bank AB;1448,68;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039497;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039517;NORMAL;556574-6624;SEB Kort Bank AB;109;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039534;NORMAL;556574-6624;SEB Kort Bank AB;3873,96;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039541;NORMAL;556574-6624;SEB Kort Bank AB;4435,45;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039550;NORMAL;556574-6624;SEB Kort Bank AB;1029,78;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039506;NORMAL;556574-6624;SEB Kort Bank AB;583,33;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039501;NORMAL;556574-6624;SEB Kort Bank AB;2824,26;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039513;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039523;NORMAL;556574-6624;SEB Kort Bank AB;4011,11;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039511;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039508;NORMAL;556574-6624;SEB Kort Bank AB;455,74;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039543;NORMAL;556574-6624;SEB Kort Bank AB;1136,45;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039519;NORMAL;556574-6624;SEB Kort Bank AB;2603,08;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039535;NORMAL;556574-6624;SEB Kort Bank AB;4020,11;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039502;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039509;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039499;NORMAL;556574-6624;SEB Kort Bank AB;109;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039505;NORMAL;556574-6624;SEB Kort Bank AB;811,13;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039526;NORMAL;556574-6624;SEB Kort Bank AB;1465,55;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039518;NORMAL;556574-6624;SEB Kort Bank AB;1363,02;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039516;NORMAL;556574-6624;SEB Kort Bank AB;723,34;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039530;NORMAL;556574-6624;SEB Kort Bank AB;390,56;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039510;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039498;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039524;NORMAL;556574-6624;SEB Kort Bank AB;782;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039504;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039507;NORMAL;556574-6624;SEB Kort Bank AB;1025,64;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039527;NORMAL;556574-6624;SEB Kort Bank AB;3060,3;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039500;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039503;NORMAL;556574-6624;SEB Kort Bank AB;1849;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039515;NORMAL;556574-6624;SEB Kort Bank AB;21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039547;NORMAL;556574-6624;SEB Kort Bank AB;2226,78;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039555;NORMAL;556574-6624;SEB Kort Bank AB;2023,67;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039539;NORMAL;556574-6624;SEB Kort Bank AB;4733,54;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039521;NORMAL;556574-6624;SEB Kort Bank AB;2837,55;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039542;NORMAL;556574-6624;SEB Kort Bank AB;4190,1;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039558;NORMAL;556574-6624;SEB Kort Bank AB;1785,29;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039531;NORMAL;556574-6624;SEB Kort Bank AB;5668,13;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039551;NORMAL;556574-6624;SEB Kort Bank AB;659,06;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039565;NORMAL;556574-6624;SEB Kort Bank AB;2754,29;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039560;NORMAL;556574-6624;SEB Kort Bank AB;2386,96;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039564;NORMAL;556574-6624;SEB Kort Bank AB;3761,63;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039561;NORMAL;556574-6624;SEB Kort Bank AB;5876,05;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039544;NORMAL;556574-6624;SEB Kort Bank AB;5416,47;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039529;NORMAL;556574-6624;SEB Kort Bank AB;3059,63;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039549;NORMAL;556574-6624;SEB Kort Bank AB;5571,87;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039525;NORMAL;556574-6624;SEB Kort Bank AB;2687,07;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039545;NORMAL;556574-6624;SEB Kort Bank AB;2482,06;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039533;NORMAL;556574-6624;SEB Kort Bank AB;2060,14;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039522;NORMAL;556574-6624;SEB Kort Bank AB;3060,37;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039568;NORMAL;556574-6624;SEB Kort Bank AB;4433,07;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039567;NORMAL;556574-6624;SEB Kort Bank AB;2207,26;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039563;NORMAL;556574-6624;SEB Kort Bank AB;963,84;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039548;NORMAL;556574-6624;SEB Kort Bank AB;3649,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039570;NORMAL;556574-6624;SEB Kort Bank AB;390,56;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039553;NORMAL;556574-6624;SEB Kort Bank AB;903,14;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039520;NORMAL;556574-6624;SEB Kort Bank AB;4839,59;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039566;NORMAL;556574-6624;SEB Kort Bank AB;1507,82;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039572;NORMAL;556574-6624;SEB Kort Bank AB;1396,23;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039538;NORMAL;556574-6624;SEB Kort Bank AB;284,2;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039536;NORMAL;556574-6624;SEB Kort Bank AB;4645,65;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039556;NORMAL;556574-6624;SEB Kort Bank AB;2915,44;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039532;NORMAL;556574-6624;SEB Kort Bank AB;3722,21;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039528;NORMAL;556574-6624;SEB Kort Bank AB;2883,63;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039557;NORMAL;556574-6624;SEB Kort Bank AB;3420,55;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039554;NORMAL;556574-6624;SEB Kort Bank AB;2302,1;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039537;NORMAL;556574-6624;SEB Kort Bank AB;3246,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039573;NORMAL;556574-6624;SEB Kort Bank AB;157,55;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039540;NORMAL;556574-6624;SEB Kort Bank AB;4290,34;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039562;NORMAL;556574-6624;SEB Kort Bank AB;1489,89;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039559;NORMAL;556574-6624;SEB Kort Bank AB;92,62;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039569;NORMAL;556574-6624;SEB Kort Bank AB;1283,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039552;NORMAL;556574-6624;SEB Kort Bank AB;2868,12;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;2039571;NORMAL;556574-6624;SEB Kort Bank AB;542,45;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;8342000617;NORMAL;556299-1009;Scandic Hotels AB Sundsvall City;14441,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;47848694;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;11781;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-08-31;1380;NORMAL;556954-5667;Advokataktiebolaget Per Furberg;68750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-01;INV-81433;NORMAL;802410-0151;Svenska institutet för standarder Ideell förening;35000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-01;INV-81434;NORMAL;802410-0151;Svenska institutet för standarder Ideell förening;5000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-01;1290162;NORMAL;556915-9006;Pro & Pro AB;138765;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-01;24190912;NORMAL;556206-4112;SSRS Stockholm Nord Hotel AB;8736;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-01;138;NORMAL;999000-2198;SelveTech Consulting AB;96000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;16575;NORMAL;556590-6897;Pro4u AB;93360;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;534;NORMAL;559233-2703;Wise Management AB;28350;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;3002;NORMAL;559207-3851;Café 117 AB/Fortnox Finans AB;527,68;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;1406/2408;NORMAL;202100-5448;Skatteverket;4964058;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;751004797;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;8158,62;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;684;NORMAL;559125-5350;Novare Public HR AB;15000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;120243;NORMAL;556726-4758;Chas visual management AB;101640;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;120244;NORMAL;556726-4758;Chas visual management AB;113536;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;120245;NORMAL;556726-4758;Chas visual management AB;81312;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;40105458;NORMAL;202100-6552;E-hälsomyndigheten;23241;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;40105460;NORMAL;202100-6552;E-hälsomyndigheten;84234;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;208174201;NORMAL;556196-1599;SJ AB;63490,57;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;15123257;NORMAL;202100-5448;Skatteverket;3010,8;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;742703579;NORMAL;556786-3542;Governo AB;120495;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;21143497;NORMAL;556610-9038;SSRS Sundsvall Hotel AB Elite Knaust;15659,2;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;2880;NORMAL;559071-0538;Kvadrat Sundsvall AB;100648;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;42553695;NORMAL;556587-8708;Ework Group AB;11148;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;42553694;NORMAL;556587-8708;Ework Group AB;23780;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;42553450;NORMAL;556587-8708;Ework Group AB;169290;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;452;NORMAL;559054-3152;Edge Associates AB;121144;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-02;3614167;NORMAL;999000-2219;XLENT Sundsvall AB;62000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;3136020487;NORMAL;556180-2959;Coor Norrland Lokalvård AB;47413;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;1224;NORMAL;559130-1329;Useit Consulting Sweden AB;7700;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;3897;NORMAL;556953-3978;Masarin Consulting Group AB;131864;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;1328653;NORMAL;556185-6385;Feelgood Företagshälsovård AB/Ropo Capital Sweden AB;3285,75;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;91170;NORMAL;556648-5677;Swedish Connection AB;142974;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20185;NORMAL;559161-7864;IDsec Solutions AB;253440;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20186;NORMAL;559161-7864;IDsec Solutions AB;290400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20188;NORMAL;559161-7864;IDsec Solutions AB;153440;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20187;NORMAL;559161-7864;IDsec Solutions AB;132890;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20189;NORMAL;559161-7864;IDsec Solutions AB;145220;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;20190;NORMAL;559161-7864;IDsec Solutions AB;145220;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;588070;NORMAL;556563-1404;Arkaden Konsult AB;300;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;123159;NORMAL;556954-9628;Blendow Publishing AB;15900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;76416;NORMAL;559002-8899;Emagine Consulting AB;113920;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;76417;NORMAL;559002-8899;Emagine Consulting AB;164000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;16649;NORMAL;556590-6897;Pro4u AB;96366,75;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;126508857;NORMAL;556866-3248;Knowit Cybersecurity & Law AB;57504;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;607300;NORMAL;556815-9072;Voky AB;7457;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;454;NORMAL;559054-3152;Edge Associates AB;108192;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;8911;NORMAL;556589-4614;Trippus Event Solutions AB;95;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;1000000603;NORMAL;556551-4147;Frontwalker Stockholm AB;140602;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;8682;NORMAL;556630-4928;Finansiell ID-Teknik BID AB;39,78;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;54414379;NORMAL;202100-5521;Försäkringskassan;1254832;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;54414380;NORMAL;202100-5521;Försäkringskassan;15730;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;3538;NORMAL;556688-7419;Kirei AB;93330;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-03;3537;NORMAL;556688-7419;Kirei AB;229680;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1568;NORMAL;556472-9282;Bouvet AB;120405;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;317094818;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;9436;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;35246;NORMAL;556513-1355;Lindéns Skyltar AB;30653,96;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;110490266;NORMAL;556242-1718;Randstad AB;228000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;100028292;NORMAL;556391-0354;Know IT AB;95811;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1609;NORMAL;559244-3484;Visionite Sundsvall AB;109968;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1607;NORMAL;559244-3484;Visionite Sundsvall AB;127971;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1608;NORMAL;559244-3484;Visionite Sundsvall AB;71100;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1600;NORMAL;559244-3484;Visionite Sundsvall AB;91450;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1587;NORMAL;559244-3484;Visionite Sundsvall AB;98336;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1586;NORMAL;559244-3484;Visionite Sundsvall AB;154921;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1585;NORMAL;559244-3484;Visionite Sundsvall AB;119000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;338;NORMAL;999000-2278;Balr Consulting Group AB;64575;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;1240485;NORMAL;556299-1447;Senab AB/Swedbank PayEx Sverige AB;2196;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-04;300883707;NORMAL;556767-9849;SWECO Sverige AB;117600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;13866;NORMAL;556654-0422;Digitalist Open Tech AB;5000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;13876;NORMAL;556654-0422;Digitalist Open Tech AB;197800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;111304244;NORMAL;556506-5819;HiQ Stockholm AB;79200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;1060;NORMAL;559387-8969;Ecrucial Stockholm AB;129375;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;3928;NORMAL;556766-7968;Frontit Sundsvall AB;112680;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;1071;NORMAL;559387-8969;Ecrucial Stockholm AB;42330;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;13890;NORMAL;556654-0422;Digitalist Open Tech AB;118500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;1079;NORMAL;559387-8969;Ecrucial Stockholm AB;50600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;34851;NORMAL;556656-3218;Hjärtum Utbildning AB;6980;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;34850;NORMAL;556656-3218;Hjärtum Utbildning AB;6980;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;6430;NORMAL;556782-2571;Baringo Reklam & Kommunikation AB;48661;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;6431;NORMAL;556782-2571;Baringo Reklam & Kommunikation AB;18226;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-05;BFF0000950;NORMAL;222000-0315;Sveriges Kommuner och Regioner;180000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;15376;NORMAL;556700-7181;Viati Konsult AB;93800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;13893;CREDIT;556654-0422;Digitalist Open Tech AB;-197800;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;22955;NORMAL;556641-0576;Redpill Linpro AB;166999;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;2431;NORMAL;559269-9531;Recycling Partner RP i Hudiksvall AB;5480;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;8949;NORMAL;556589-4614;Trippus Event Solutions AB;2900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-06;310019752;NORMAL;202100-2924;Örebro universitet;17957;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-07;103224014864;NORMAL;556343-7218;Thales DIS Sweden AB;4375;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-07;4000110078545;NORMAL;556348-1588;Manpower AB;32640;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-08;4015010044798;NORMAL;556855-1104;Experis AB;40889;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-08;4015010044818;NORMAL;556855-1104;Experis AB;174375;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-08;4015010044801;NORMAL;556855-1104;Experis AB;69600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;160100068;NORMAL;556589-4614;Trippus Event Solutions AB;5400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;208237131;NORMAL;556196-1599;SJ AB;63490,57;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;4490;NORMAL;556779-6833;Hamburgerbryggeriet AB Brygghuset;3900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;PJ6000059673;NORMAL;556866-4444;ÅF Digital Solutions AB;82814;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;29502;NORMAL;556323-3435;Ballongkungen AB;3818;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;1240672;NORMAL;556299-1447;Senab AB/Swedbank PayEx Sverige AB;14320;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;2913;NORMAL;559071-0538;Kvadrat Sundsvall AB;136070;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-09;2914;NORMAL;559071-0538;Kvadrat Sundsvall AB;67080;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-10;544411;NORMAL;556536-1150;Certezza AB;80000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-10;73954;NORMAL;559002-8899;Emagine Consulting AB;142400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-10;74242;NORMAL;559002-8899;Emagine Consulting AB;142400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-10;74724;NORMAL;559002-8899;Emagine Consulting AB;128160;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-10;5466;NORMAL;999000-1998;Kite Kommunikasjon og event AS;9197;NOK;202100-6884;Myndigheten för digital förvaltning
+2024-09-11;INV-82042;NORMAL;802410-0151;Svenska institutet för standarder Ideell förening;24900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-11;31783899;NORMAL;202100-5984;Myndigheten för Samhällsskydd och Beredskap MSB;11875;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-11;3109733;NORMAL;202100-5208;Vetenskapsrådet;556087;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-11;42423;NORMAL;556323-6776;Scandinavian Print Group Sweden AB;288,09;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-12;44677;NORMAL;556675-7810;Talentech AB;4500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-12;111264671;NORMAL;556768-7248;Synsam Group Sweden AB;349;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;124811730;NORMAL;556091-3591;Lyreco Sverige AB;929,55;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;124811729;NORMAL;556091-3591;Lyreco Sverige AB;18000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;805779385824;NORMAL;556711-5695;PostNord Sverige AB;57,2;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;805780642726;NORMAL;556711-5695;PostNord Sverige AB;57,2;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;320030276;NORMAL;556599-4307;Consid AB;9905;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;398266;NORMAL;556218-6790;Combitech AB;117984;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-13;398265;NORMAL;556218-6790;Combitech AB;209407,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-15;160100076;NORMAL;556589-4614;Trippus Event Solutions AB;5400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-16;35322;NORMAL;556513-1355;Lindéns Skyltar AB;2650;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-16;28236;NORMAL;556528-6423;Quickchannel AB;12964,33;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-17;124837179;NORMAL;556091-3591;Lyreco Sverige AB;82,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-17;313011622;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;1474609;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-18;31329;NORMAL;559024-5576;Brandcode AB;8000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-18;1626;NORMAL;559244-3484;Visionite Sundsvall AB;149600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-18;30734608;NORMAL;556214-9996;Advania Sverige AB;48590;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-19;40105575;NORMAL;202100-6552;E-hälsomyndigheten;629054;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-19;40105574;NORMAL;202100-6552;E-hälsomyndigheten;629054;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-19;TS 2409 DIGG;NORMAL;802015-0721;Trygghetsstiftelsen;25892;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-19;211149;NORMAL;556701-8204;Webropol Sverige AB;18500;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-19;223613;NORMAL;556559-4230;Inera AB;9900;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-20;1238459;NORMAL;556483-4371;Avoki Solutions AB;2750;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-22;3077;NORMAL;559207-3851;Café 117 AB/Fortnox Finans AB;5139,29;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-22;317095094;NORMAL;202100-0928;SPV Statens tjänstepensionsverk (Autogiro);589212;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-23;47015;NORMAL;556906-4107;TC Connect Sweden AB;67384;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-23;50574;NORMAL;556590-4207;Insight Intelligence AB;45000;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-24;4124862501;NORMAL;556029-6740;Öhrlings PricewaterhouseCoopers AB;142376;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-25;124912471;NORMAL;556091-3591;Lyreco Sverige AB;540;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-25;31009189;NORMAL;202100-3476;Arbetsgivarverket;1400;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-25;11311;NORMAL;556847-6831;Kompetensinstitutet Norden AB;6990;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-25;317095365;NORMAL;202100-0928;SPV Statens tjänstepensionsverk;2165171,61;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-26;24191111;NORMAL;556206-4112;SSRS Stockholm Nord Hotel AB;4123,2;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-26;24191116;NORMAL;556206-4112;SSRS Stockholm Nord Hotel AB;18312;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-26;415461;NORMAL;556596-3336;Fastighets Competens i Norrland AB;508,14;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-26;24191206;NORMAL;556206-4112;SSRS Stockholm Nord Hotel AB;10769,6;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-27;902910384822;NORMAL;556711-5695;PostNord Sverige AB;6025,4;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-27;31489;NORMAL;559024-5576;Brandcode AB;6110;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-28;124946341;NORMAL;556091-3591;Lyreco Sverige AB;687,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-28;47909786;NORMAL;556448-0282;Atea Sverige AB/Atea Service Center AB;17024;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;752540567;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;5058,04;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;752211813;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;198,9;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;752211821;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;39140,73;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;752211839;NORMAL;556574-6624;SEB Kort Bank AB Eurocard Sweden;322,5;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;55809;NORMAL;556600-9089;Entergate AB;3600;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;180253;NORMAL;556297-6497;Stema Specialtryck AB;2120;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;688;NORMAL;559125-5350;Novare Public HR AB;37200;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;31032705;NORMAL;556076-0737;Securitas Technology Sverige AB;268300;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;760025632;NORMAL;202100-6453;Statens servicecenter;86723;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;760025631;NORMAL;202100-6453;Statens servicecenter;54716;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;42559839;NORMAL;556587-8708;Ework Group AB;53505;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;2919;NORMAL;559071-0538;Kvadrat Sundsvall AB;170664;SEK;202100-6884;Myndigheten för digital förvaltning
+2024-09-30;3530;NORMAL;556878-5934;Luxlucid AB;4800;SEK;202100-6884;Myndigheten för digital förvaltning
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
