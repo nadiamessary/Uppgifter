@@ -81,11 +81,10 @@ plt.xticks(rotation=90)
 
 # Scatter plot
 plt.figure("Scatter plot")
-plt.scatter(df_summering["leverantor"], df_summering["totalsumma"])
-plt.title("Totalsumma för varje leverantör")
-plt.xlabel("Leverantör")
-plt.ylabel("Summa")
-plt.xticks(rotation=90)
+plt.scatter(df_summering["antal_kop"], df_summering["totalsumma"])
+plt.title("Antal köp och totalsumma")
+plt.xlabel("Antal köp")
+plt.ylabel("Totalsumma")
 plt.ticklabel_format(style="plain", axis="y")
 
 plt.show()
